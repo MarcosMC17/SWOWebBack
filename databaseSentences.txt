@@ -1,0 +1,5 @@
+Categories table: CREATE TABLE Categories(IdCat int,CatName varchar(255));
+Questions table : CREATE TABLE Questions(QId int, Question varchar(255), IdCat varchar(255), IdSubcat varchar(255));
+
+
+
